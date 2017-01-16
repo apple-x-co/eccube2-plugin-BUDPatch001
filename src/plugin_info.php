@@ -25,7 +25,7 @@
  * プラグイン情報
  *
  * @package BUDPatch001
- * @version 1.0
+ * @version $Id$
  */
 class plugin_info{
     static $PLUGIN_CODE       = "BUDPatch001";

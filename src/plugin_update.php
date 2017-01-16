@@ -25,7 +25,7 @@
  * プラグイン情報
  *
  * @package BUBGoogUA
- * @version 1.0
+ * @version $Id$
  */
 class plugin_update
 {

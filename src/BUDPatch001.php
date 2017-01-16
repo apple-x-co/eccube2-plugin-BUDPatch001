@@ -25,7 +25,7 @@
  * プラグインメイン
  *
  * @package BUDPatch001
- * @version 1.0
+ * @version $Id$
  */
 class BUDPatch001 extends SC_Plugin_Base {
 	
