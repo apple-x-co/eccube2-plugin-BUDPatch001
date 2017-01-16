@@ -31,7 +31,7 @@ class plugin_info{
     static $PLUGIN_CODE       = "BUDPatch001";
     static $PLUGIN_NAME       = "修正パッチ001";
     static $PLUGIN_VERSION    = "1.0.0";
-    static $COMPLIANT_VERSION = "2.13.0+";
+    static $COMPLIANT_VERSION = "2.12.6+";
     static $AUTHOR            = "Buddying Inc.";
     static $DESCRIPTION       = "データベースにMySQLを使用している場合、セッションが大きくなると一部のデータが欠落する問題を解決します。インストールすると適用されます。";
     static $PLUGIN_SITE_URL   = "http://buddying.jp/eccube/plugins/2/BUDPatch001/";
